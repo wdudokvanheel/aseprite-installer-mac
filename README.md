@@ -41,6 +41,9 @@ cd aseprite-installer-mac
 sudo ./install.sh
 ```
 
+### 6) Cleanup
+Delete the scripts and the *aseprite_build* folder in your home folder
+
 ## Credits
 
 Thanks to all the developers of Aseprite for their awesome software and to [Casnah7](https://github.com/Chasnah7/aseprite-build-script-mac/) for the build script
